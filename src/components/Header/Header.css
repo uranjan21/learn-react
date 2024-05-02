@@ -1,0 +1,12 @@
+.app-header {
+    color: #66fcf1;
+    border-bottom: 0.25px solid white; 
+    min-width: 1000px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.header-title{
+    font-weight: 800;
+    font-size: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
